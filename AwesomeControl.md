@@ -12,6 +12,8 @@
 
 [卡尔曼滤波器 合集DR_CAN](https://www.bilibili.com/video/BV12D4y1S7fU)
 
+[忠厚老实的老王- 贝叶斯滤波与卡尔曼滤波](https://www.bilibili.com/video/BV1eE41147wK)
+
 [最优控制理论](https://www.bilibili.com/video/BV1oz4y1R7QD?p=1)
 
 [卡尔曼滤波与组合导航原理-西北工业大学-严恭敏](https://www.bilibili.com/video/BV11K411J7gp?from=search&seid=2783310360201785316)
@@ -22,3 +24,9 @@
 
 [Vehicle Dynamics & Control- Lubeck Uni Course](https://www.bilibili.com/video/BV1Pa4y1E7RY)
 ## Code
+
+[Autoware]()
+
+[Apollo]()
+
+[PythonRobotics]()
