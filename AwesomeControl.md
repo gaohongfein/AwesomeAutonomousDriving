@@ -12,4 +12,5 @@
 
 [卡尔曼滤波与组合导航原理-西北工业大学-严恭敏](https://www.bilibili.com/video/BV11K411J7gp?from=search&seid=2783310360201785316)
 
+[模型预测控制](https://space.bilibili.com/387233952/)
 ## Code
