@@ -11,7 +11,7 @@
 [无人驾驶车辆模型预测控制](https://item.jd.com/12843658.html)
 
 ## Paper
-
+- A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles *****
 - Lateral control of a backward driven front-steering vehicle, 2003, [Rajamani, R Zhu, C Alexander, L][[paper]()]
 - Stanley : The Robot That Won The DARPA Grand Challenge, 2006,[[paper]()]
 - Automatic Steering Methods for Autonomous Automobile Path Tracking, 2009, [[paper]()]
@@ -37,6 +37,16 @@
 [忠厚老实的老王-自动驾驶控制算法](https://www.bilibili.com/video/BV1ZA411J7pV)
 
 [Vehicle Dynamics & Control- Lubeck Uni Course](https://www.bilibili.com/video/BV1Pa4y1E7RY)
+
+## Algorithm
+
+- Pure Pursuit
+- Rear wheel position based feedback
+- Front wheel position based feedback
+- LQR
+- MPC
+- RL
+
 ## Code
 
 [Autoware](https://github.com/Autoware-AI/autoware.ai)
