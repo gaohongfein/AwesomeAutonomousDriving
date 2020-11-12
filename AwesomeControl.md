@@ -13,4 +13,8 @@
 [卡尔曼滤波与组合导航原理-西北工业大学-严恭敏](https://www.bilibili.com/video/BV11K411J7gp?from=search&seid=2783310360201785316)
 
 [模型预测控制](https://space.bilibili.com/387233952/)
+
+[忠厚老实的老王-自动驾驶控制算法](https://www.bilibili.com/video/BV1ZA411J7pV)
+
+[Vehicle Dynamics & Control- Lubeck Uni Course](https://www.bilibili.com/video/BV1Pa4y1E7RY)
 ## Code
