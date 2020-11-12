@@ -3,6 +3,7 @@
 
 ## Book
 电子版本可联系我wechat:ghf871282564
+
 [车辆动力学及控制2011年版本Vehicle Dynamic and Control翻译版本](http://book.kongfz.com/293356/2542413822/)
 
 [Vehicle Dynamic and Control](https://item.jd.com/1650243934.html)
