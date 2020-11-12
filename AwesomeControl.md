@@ -2,8 +2,21 @@
 # AwesomeControl
 
 ## Book
+电子版本可联系我wechat:ghf871282564
+[车辆动力学及控制2011年版本Vehicle Dynamic and Control翻译版本](http://book.kongfz.com/293356/2542413822/)
+
+[Vehicle Dynamic and Control](https://item.jd.com/1650243934.html)
+
+[无人驾驶车辆模型预测控制](https://item.jd.com/12843658.html)
 
 ## Paper
+
+- Lateral control of a backward driven front-steering vehicle, 2003, [Rajamani, R Zhu, C Alexander, L][[paper]()]
+- Stanley : The Robot That Won The DARPA Grand Challenge, 2006,[[paper]()]
+- Automatic Steering Methods for Autonomous Automobile Path Tracking, 2009, [[paper]()]
+- Autonomous maneuver of a farm vehicle with a trailed implement : motion planner and lateral-longitudinal controllers, 2010, [[paper]()]
+- A control system for autonomous vehicle valet parking, 2013,
+
 
 ## Video
 [现代控制理论-浙江大学2020公开课](https://www.bilibili.com/video/BV1T7411n7en?p=1)
@@ -25,9 +38,9 @@
 [Vehicle Dynamics & Control- Lubeck Uni Course](https://www.bilibili.com/video/BV1Pa4y1E7RY)
 ## Code
 
-[Autoware]()
+[Autoware](https://github.com/Autoware-AI/autoware.ai)
 
-[Apollo]()
+[Apollo](https://github.com/ctripcorp/apollo)
 
 [PythonRobotics]()
 
