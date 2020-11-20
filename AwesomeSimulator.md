@@ -21,4 +21,4 @@ and can be immediately used for testing and validation of a whole system with li
 
 ## [Summit](https://github.com/AdaCompNUS/summit)
 
-[SUMMIT](https://zhuanlan.zhihu.com/p/270910476)
+[Summit中文介绍](https://zhuanlan.zhihu.com/p/270910476)
