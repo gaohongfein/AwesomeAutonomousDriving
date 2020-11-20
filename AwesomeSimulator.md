@@ -19,5 +19,6 @@ and can be immediately used for testing and validation of a whole system with li
 ## Sumo
 ## Apollo
 
-## [Summit]
+## [Summit](https://github.com/AdaCompNUS/summit)
+
 [SUMMIT](https://zhuanlan.zhihu.com/p/270910476)
